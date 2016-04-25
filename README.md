@@ -35,4 +35,5 @@ For more information, check out https://docs.docker.com/)
    docker commit [instance_id] [name_of_image]
    
 All Rights Reserved Yuxi Pacifc LLC.
+http://www.yuxipacific.com
    
