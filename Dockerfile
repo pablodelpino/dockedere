@@ -1,4 +1,4 @@
-FROM dockedere:final
+FROM pablodelpino/dockedere:final
 MAINTAINER Pablo del Pino <pablo.delpino@yuxipacific.com>
 
 # Expose MarkLogic Server ports - add additional ones for your REST, etc
