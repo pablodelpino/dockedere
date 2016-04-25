@@ -14,7 +14,7 @@ For more information, check out https://docs.docker.com/)
 1. Inside your Docker console, create a new directory, copy the provided 
    Dockerfile and build the image:
     
-    docker build -t <name_of_image> .
+    docker build -t [name_of_image] .
     
 2. Once the image is built, run it by typing the following in your Docker
    console: (command is single-line)
@@ -32,7 +32,7 @@ For more information, check out https://docs.docker.com/)
 
 5. After any changes made to the container, run the following:
    
-   docker commit <instance_id> <name_of_image>
+   docker commit [instance_id] [name_of_image]
    
 All Rights Reserved Yuxi Pacifc LLC.
    
